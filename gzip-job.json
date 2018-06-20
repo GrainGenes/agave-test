@@ -1,0 +1,11 @@
+{
+    "jobName": "gunzip-demo",
+    "appId": "uncompress_gunzip-0.0.0u1",
+    "archive": true,
+    "inputs": {
+          "files":  "agave://data.iplantcollaborative.org/ericiam/sloth/IMG_0587.JPG.gz"
+    },
+    "parameters":{
+    }
+}
+
