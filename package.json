@@ -1,0 +1,23 @@
+{
+  "name": "agave-test",
+  "version": "1.0.0",
+  "description": "AGAVE test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enuggetry/agave-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enuggetry/agave-test/issues"
+  },
+  "homepage": "https://github.com/enuggetry/agave-test#readme",
+  "devDependencies": {
+    "blast-ncbi-tools": "github:enuggetry/blast-ncbi-tools",
+    "faux-blastdb": "github:enuggetry/faux-blastdb"
+  }
+}
