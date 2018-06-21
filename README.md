@@ -8,10 +8,13 @@ npm install
 ./utils/blast_getBlastUtils.js
 ```
 
-Test gzip app
-
+### Test gzip app
 ```
-sh gzip-test.sh
+sh gzip-test.sh (does not require npm install)
 ```
 
-
+### Test blast app
+Uses existing blast app that already exists on CyVerse.
+```
+sh blast-test.sh
+```
