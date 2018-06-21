@@ -19,5 +19,6 @@
   "devDependencies": {
     "blast-ncbi-tools": "github:enuggetry/blast-ncbi-tools",
     "faux-blastdb": "github:enuggetry/faux-blastdb"
-  }
+  },
+  "dependencies": {}
 }

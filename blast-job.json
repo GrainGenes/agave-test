@@ -1,0 +1,13 @@
+{
+    "jobName": "blast-demo",
+    "appId": "blastn_2.2.31-0.0.0u1",
+    "archive": true,
+    "inputs": {
+          "blast_db":  "agave://data.iplantcollaborative.org/ericiam/blastdb/faux",
+          "query":  "agave://data.iplantcollaborative.org/ericiam/testfiles/blast-query.fa"
+    },
+    "parameters":{
+	"outfmt": "5"
+    }
+}
+
