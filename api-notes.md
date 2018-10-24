@@ -19,11 +19,16 @@ cyverse-sdk-info
 cyverse-sdk-info --update
 ```
 
+// to startup after a period do
+tenants-init, clients-create, auth-tokens-create
+
+
+
 // setup tenant
 ```
 tenants-init -t iplantc.org
 ```
-
+Note: update tenants-common.sh change hosturl="https://agaveapi.co/tenants/" to "https://agave.iplantc.org/tenants"
 ## Oauth
 
 // create an API key
